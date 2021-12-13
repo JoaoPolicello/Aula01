@@ -1,0 +1,17 @@
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.exe
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.deps.json
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.runtimeconfig.json
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.dll
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\ref\Aula01.dll
+C:\Aula_FIAP\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.pdb
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.AssemblyReference.cache
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.frmAula01.resources
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.GenerateResource.cache
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.AssemblyInfoInputs.cache
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.AssemblyInfo.cs
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.CoreCompileInputs.cache
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.dll
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\ref\Aula01.dll
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.pdb
+C:\Aula_FIAP\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.genruntimeconfig.cache
